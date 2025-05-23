@@ -1,5 +1,4 @@
 # 📝 Doubly Linked List: Search an Element
-# 📝 Doubly Linked List: Search an Element
 
 This Python program demonstrates the implementation of a **Doubly Linked List** where you can insert elements at both the beginning and the end of the list. Additionally, it allows you to search for a specific element in the list.
 
